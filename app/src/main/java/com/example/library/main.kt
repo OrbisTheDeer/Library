@@ -16,6 +16,7 @@ import com.example.library.actions.theEnd
 var LIBRARY = mutableListOf(
     Books(1, true, "The Jungle Book", 1500, "Redyard Kipling"),
     Books(2, true, "Kanban in Action", 100, "Hammarberg"),
+    Books(3, true, "Harry Potter", 100, "J.K. Rouling"),
     Newspapers(1, true, "The Times", 1, Month.MAY.rusName),
     Newspapers(2, true, "Аргументы И Факты", 5, Month.JANUARY.rusName),
     Discs(1, true, "Detroit Become Human", "CD"),
